@@ -26,5 +26,8 @@
     "test": "jest",
     "test:watch": "jest --watchAll",
     "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.10"
   }
 }
